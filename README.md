@@ -1,2 +1,2 @@
 # beaglebone
-my beaglebone
+my beaglebone is a test!
